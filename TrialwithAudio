@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title> SIM URBAN MYTHS trial </title>
+	
+</head>
+
+<img src="Website Border.JPG" ; width ="100%"; height "100%"> 
+<body bgcolor="black">
+<font color="red"><h1>      Hello world   </h1>  
+
+<font color="white"><h2> Mr. Connor lesson Private website creation  </h2> 
+
+<style>
+h1 {font-size:100px}  
+h1 { font-color:"red"}
+h1 { font-family:"Bloody"}
+h1 {text-align:center} 
+
+h2 {font-family: 'Castellar' ; font-size:20px ; text-align:center } 
+</style>
+
+<p><audio src="Friday the 13th ambience sound.mp3" ; controls type="audio/mp3"> </audio> </p>
+</body>
+
+
+</html>
